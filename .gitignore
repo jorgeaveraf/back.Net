@@ -1,0 +1,27 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de Visual Studio
+*.user
+*.suo
+.vscode/
+
+# Archivos de configuración sensibles
+appsettings.json
+appsettings.Development.json
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.vs/
+
+# Archivos de dependencias
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
